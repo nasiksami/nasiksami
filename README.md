@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> from Bangladesh. 
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> from Bangladesh.
   </em>
  </p>
  <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
 - 💻 I'm looking for an **internship** in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Science** ,**Software Engineering** and **Software Testing** domain.
-- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community** and **Mobile APP Development**
+- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community** ,teach myself about the latest technologies in this field and to **learn everyday something new**.
 
 ### Connect with me:
 - Email: **nasiksami@gmail.com**
@@ -33,15 +33,5 @@
 <code><img height="40" src="https://i.morioh.com/2020/04/14/cbbb04582c2a.jpg" title="expo client"></code>
 <br />
 
- 
-### Top Programming Languages
 
-<p align="center">
-<a href = "https://github.com/nasiksami">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=nasiksami&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
-
-
-                                                            **Thanks For Visiting My profile**
+                                                              Thanks For Visiting My profile
