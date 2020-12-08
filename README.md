@@ -1,4 +1,4 @@
-### Hi there, I'm Zian Md Afique Amin👋
+### Hi there, I'm Nasik Sami Khan👋
 
 <p>
   <em>
@@ -51,7 +51,7 @@
 def afiquezian():
   skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate','HTML & CSS': 'Intermediate','JavaScript' :'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-  framework=['flask','React Native','Heroku']
+  framework=['flask','Heroku']
   active_blogger = True
   return ∞
 ```
@@ -64,16 +64,16 @@ def afiquezian():
 ### GitHub Acknowledgement
 
 <p align="center">
-  <a href = "https://github.com/zianafique">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=zianafique&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  <a href = "https://github.com/nasiksami">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=nasiksami&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
 ### Top Programming Languages
 
 <p align="center">
-<a href = "https://github.com/zianafique">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=zianafique&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+<a href = "https://github.com/nasiksami">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=nasiksami&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 
