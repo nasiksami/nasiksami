@@ -10,7 +10,6 @@
 <em>
 
 - 🎓 I'm currently pursuing **Masters in Computer Science** from **University of Regina, Saskatchewan, Canada**.
-- 💻 I'm looking for an **internship** in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Science** ,**Software Engineering** and **Software Testing** domain.
 - 🎯 Goal (2023): **Contribute** openly to **Data Science and Machine Learning Research community** ,teach myself about the latest technologies in this field and to **learn everyday something new**.
 
 ### Connect with me:
