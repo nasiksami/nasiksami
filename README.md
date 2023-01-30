@@ -19,4 +19,4 @@
 <br />
 
 
-                                                    <p style="align-centre">    Thanks For Visiting My profile </p>
+                                                    <h3>    Thanks For Visiting My profile </h3>
