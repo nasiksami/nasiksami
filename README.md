@@ -9,9 +9,9 @@
 
 <em>
 
-- 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
+- 🎓 I'm currently pursuing **Masters in Computer Science** from **University of Regina, Saskatchewan, Canada**.
 - 💻 I'm looking for an **internship** in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Science** ,**Software Engineering** and **Software Testing** domain.
-- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community** ,teach myself about the latest technologies in this field and to **learn everyday something new**.
+- 🎯 Goal (2023): **Contribute** openly to **Data Science and Machine Learning Research community** ,teach myself about the latest technologies in this field and to **learn everyday something new**.
 
 ### Connect with me:
 - Email: **nasiksami@gmail.com**
